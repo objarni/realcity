@@ -9,6 +9,10 @@ Example from a game for inspiration:
 
 <img width="137" alt="image" src="https://github.com/objarni/realcity/assets/68198/0e3962af-350d-4cd7-ba03-94345b9cdda6">
 
+Heatmap showing "äventyrsbad" around Göteborg:
+
+<img width="644" alt="image" src="https://github.com/objarni/realcity/assets/68198/b08a68f4-10c1-4fdf-960f-07945e9a4adc">
+
 
 # Leaflet tutorial for reference
 
